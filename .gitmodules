@@ -1,0 +1,3 @@
+[submodule "spark-terasort"]
+	path = spark-terasort
+	url = https://github.com/stevenybw/spark-terasort.git
